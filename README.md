@@ -1,6 +1,4 @@
-Here's a README for a GitHub repository with summaries and links for each of the papers you've read. This README provides brief explanations and direct links to the respective papers.
 
----
 
 # Research Papers Summary and Links
 
@@ -50,9 +48,3 @@ This repository includes summaries and links to foundational and influential res
    *Link*: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
 ---
-
-Each of these papers has contributed key insights and methodologies that continue to influence modern machine learning and AI research.
-
----
-
-Feel free to update the links for papers where links were not provided.
